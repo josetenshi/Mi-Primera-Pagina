@@ -142,9 +142,10 @@ ol{
     }
   }
   /*imagenes*/
-  .hello {
- text-align: center;
-  }
+
+.hello{
+  text-align: center;
+}
 
   .imagen{
     display: flex;

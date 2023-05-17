@@ -142,6 +142,9 @@ ol{
     }
   }
   /*imagenes*/
+  .hello {
+ text-align: center;
+  }
 
   .imagen{
     display: flex;
